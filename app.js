@@ -28,7 +28,7 @@ for( var i = 1; i <= 50; i++){
 
 // -------4 Pattern of Number--------
 
-var line = 10
+var line = 10;
 
 
 for (var i = 1; i <= line; i++) {
